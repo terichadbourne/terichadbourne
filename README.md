@@ -1,6 +1,8 @@
 <img width="980" alt="image" src="https://github.com/user-attachments/assets/e8b9eaae-e539-4dbb-bbca-0efee5b3b1f3" />
-<br><br>
+<br>
 
+#### View my portfolio of code, talks, and tutorials at <a href="https://teri.dev">teri.dev</a>
+<br>
 I'm an experienced web developer, developer advocate, and open-source project maintainer
 with a passion for education. In my role as a software engineer, I thrive on challenge,
 enjoy breaking down complex problems, and center user experience in my work.
@@ -22,4 +24,4 @@ technical concepts into accessible language for any audience.<br><br>
         succeed by creating beginner-friendly blog posts, tutorials, talks, and code
         samples on topics including Offline First and Progressive Web Apps.
 
-<h3>View my portfolio of code, talks, and tutorials at <a href="https://teri.dev">teri.dev</a></h3>
+
